@@ -9,7 +9,7 @@
 6. Now click on **Deploy** button from the right panel and that's it :)
 
 ## Resources
-- Explore [IBM Cloud](https://ibm.biz/BdYiZR) and try out the [Blockchain service](https://console.bluemix.net/catalog/services/blockchain)
+- Explore [IBM Cloud](https://ibm.biz/BdYjgA) and try out the [Blockchain service](https://console.bluemix.net/catalog/services/blockchain)
 
 - [Call for Code](https://callforcode.org/)
 
